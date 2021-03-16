@@ -3,7 +3,11 @@ body{
 }
 
 div#header{
+  background-color:ffffff;
+  color:000000;
 }
 
 div#content{
+  background-color:cccccc;
+  color:000000;
 }
